@@ -1,0 +1,23 @@
+#elem {
+    border-width: 3px;
+    border-style: ridge;
+    border-color: blue;
+    width: 200px;
+    height: 150px;
+}
+
+#elem2 {
+    border-width: 3px;
+    border-style: dotted ;
+    border-color: red;
+    width: 200px;
+    height: 150px;
+}
+
+#elem3 {
+    border-width: 5px;
+    border-style: double;
+    border-color: rgb(54, 8, 219);
+    width: 200px;
+    height: 150px;
+}
